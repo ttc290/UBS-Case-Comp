@@ -1,0 +1,337 @@
+City,State,Zip
+Anchorage,AK,99503
+Birmingham,AL,35202
+Huntsville,AL,35801
+Montgomery,AL,36106
+Vestavia Hills,AL,35242
+Little Rock,AR,72211
+Phoenix,AZ,85016
+Scottsdale,AZ,85251
+Scottsdale,AZ,85253
+Sedona,AZ,86336
+Surprise,AZ,85374
+Tucson,AZ,85718
+Bakersfield,CA,93311
+Beverly Hills,CA,90212
+Brea,CA,92821
+Carmel,CA,93923
+Chico,CA,95926
+Encino,CA,91436
+Fresno,CA,93704
+Grass Valley,CA,95945
+Indian Wells,CA,92210
+Irvine,CA,92618
+LA Jolla,CA,92038
+Los Angeles,CA,90067
+Los Angeles,CA,90024
+Los Angeles,CA,90071
+Los Gatos,CA,95032
+Menlo Park,CA,94025
+Merced,CA,95348
+Mill Valley,CA,94941
+Napa,CA,94558
+Newport Beach,CA,92660
+Newport Beach,CA,92658
+Palo Alto,CA,94304
+Pasadena,CA,91101
+Redlands,CA,92373
+Riverside,CA,92501
+Roseville,CA,95661
+Sacramento,CA,95815
+San Diego,CA,92130
+San Diego,CA,92101
+San Diego,CA,92128
+San Francisco,CA,94104
+San Jose,CA,95113
+San Mateo,CA,94402
+Santa Barbara,CA,93101
+Seal Beach,CA,90740
+Sonoma,CA,95476
+Walnut Creek,CA,94597
+Walnut Creek,CA,94596
+Westlake Village,CA,91361
+Boulder,CO,80302
+Colorado Springs,CO,80903
+Denver,CO,80202
+Denver,CO,80237
+Denver,CO,80265
+Fort Collins,CO,80525
+Greeley,CO,80634
+Highlands Ranch,CO,80129
+Lone Tree,CO,80124
+Greenwich,CT,6830
+Hartford,CT,6103
+New Haven,CT,6510
+New London,CT,6320
+Stamford,CT,6901
+Westport,CT,6880
+Washington,DC,20005
+Greenville,DE,19807
+Aventura,FL,33180
+Boca Raton,FL,33431
+Bonita Springs,FL,34135
+Clearwater,FL,33764
+Coral Gables,FL,33134
+Coral Gables,FL,33114
+Fort Lauderdale,FL,33301
+Fort Myers,FL,33907
+Ft. Lauderdale,FL,33301
+Gainesville,FL,32605
+Jacksonville,FL,32202
+Melbourne,FL,32901
+Miami,FL,33131
+NAPLES,FL,34108
+Orlando,FL,32801
+Palm Beach Gardens,FL,33410
+Ponte Vedra,FL,32082
+Sarasota,FL,34236
+St Petersburg,FL,33701
+Stuart,FL,34994
+Tampa,FL,33602
+Tampa,FL,33647
+Vero Beach,FL,32963
+West Palm Beach,FL,33401
+Winter Haven,FL,33880
+Winter Park,FL,32789
+Alpharetta,GA,30004
+Atlanta,GA,30305
+Atlanta,GA,30326
+Atlanta,GA,30328
+Honolulu,HI,96813
+Davenport,IA,52807
+W Des Moines,IA,50266
+West Des Moines,IA,50266
+Boise,ID,83702
+Idaho Falls,ID,83401
+Pocatello,ID,83201
+Sun Valley,ID,83353
+Barrington,IL,60010
+Chicago,IL,60606
+Chicago,IL,60602
+Naperville,IL,60540
+Northbrook,IL,60062
+Oak Brook Terrace,IL,60181
+Oakbrook Terrace,IL,60181
+Fort Wayne,IN,46801
+Indianapolis,IN,46240
+Mishawaka,IN,46545
+Leawood,KS,66211
+Wichita,KS,67207
+Bowling Green,KY,42103
+Lexington,KY,40502
+Louisville,KY,40222
+Paducah,KY,42001
+Baton Rouge,LA,70806
+Lafayette,LA,70503
+Lafayette,LA,70508
+New Orleans,LA,70163
+Boston,MA,2109
+Boston,MA,2116
+Boston,MA,2110
+Hyannis,MA,2601
+Peabody,MA,1960
+Rockland,MA,2370
+Springfield,MA,1144
+Wellesley,MA,2481
+Worcester,MA,1608
+Annapolis,MD,21401
+Baltimore,MD,21202
+Bethesda,MD,20814
+Hunt Valley,MD,21031
+Bangor,ME,4401
+Portland,ME,4112
+Birmingham,MI,48009
+Dearborn,MI,48126
+Farmington Hills,MI,48334
+Grand Blanc,MI,48439
+Grand Rapids,MI,49504
+Grosse Pointe FA,MI,48236
+Muskegon,MI,49441
+Plymouth,MI,48170
+Rochester,MI,48307
+Troy,MI,48084
+Alexandria,MN,56308
+Bloomington,MN,55437
+Minneapolis,MN,55402
+Minneapolis,MN,55440
+St Cloud,MN,56301
+St Paul,MN,55101
+St. Paul,MN,55101
+Wayzata,MN,55391
+Chesterfield,MO,63005
+Kansas City,MO,64112
+St. Louis,MO,63105
+Columbus,MS,39705
+Jackson,MS,39211
+Billings,MT,59101
+Billings,MT,59103
+Missoula,MT,59801
+Missoula,MT,59802
+Asheville,NC,28801
+Chapel Hill,NC,27517
+Charlotte,NC,28210
+Charlotte,NC,28211
+Charlotte,NC,28277
+Charlotte,NC,28202
+Fayetteville,NC,28304
+Greensboro,NC,27408
+Greenville,NC,27858
+Huntersville,NC,28078
+Raleigh,NC,27612
+Wilmington,NC,28403
+Winston-Salem,NC,27103
+Fargo,ND,58102
+Lincoln,NE,68516
+Omaha,NE,68154
+Concord,NH,3301
+Manchester,NH,3101
+Portsmouth,NH,3801
+Edison,NJ,8837
+Florham Park,NJ,7932
+Manasquan,NJ,8736
+MT. Laurel,NJ,8054
+Northfield,NJ,8225
+Paramus,NJ,7652
+Princeton,NJ,8540
+Red Bank,NJ,7701
+Short Hills,NJ,7078
+Warren,NJ,7059
+Weehawken,NJ,7086
+Westfield,NJ,7090
+Albuquerque,NM,87110
+Santa Fe,NM,87501
+Henderson,NV,89074
+Incline Village,NV,89451
+Las Vegas,NV,89135
+Reno,NV,89509
+Albany,NY,12207
+Buffalo,NY,14202
+Garden City,NY,11530
+Glens Falls,NY,12801
+Jamestown,NY,14701
+Jericho,NY,11753
+Melville,NY,11747
+Mitchel Field,NY,11553
+New York,NY,10019
+New York,NY,10171
+New York,NY,10166
+New York,NY,10178
+New York,NY,10020
+New York,NY,10005
+Plattsburgh,NY,12901
+Port Jefferson,NY,11777
+Rochester,NY,14625
+Southampton,NY,11968
+Syracuse,NY,13202
+Uniondale,NY,11553
+Watertown,NY,13601
+White Plains,NY,10601
+White Plains,NY,10604
+Williamsville,NY,14221
+Akron,OH,44321
+Canfield,OH,44406
+Canton,OH,44718
+Cincinnati,OH,45236
+Cincinnati,OH,45202
+Cleveland,OH,44114
+Columbus,OH,43215
+Columbus,OH,43220
+Dayton,OH,45402
+Dublin,OH,43017
+Hudson,OH,44236
+Mason,OH,45040
+Miamisburg,OH,45342
+New Albany,OH,43054
+Pepper Pike,OH,44124
+Rocky River,OH,44116
+Sandusky,OH,44870
+Sylvania,OH,43560
+Westlake,OH,44145
+Oklahoma City,OK,73142
+Tulsa,OK,74136
+Bend,OR,97702
+Eugene,OR,97401
+Lake Oswego,OR,97035
+Medford,OR,97504
+Portland,OR,97205
+Salem,OR,97301
+The Dalles,OR,97058
+Canonsburg,PA,15317
+Conshohocken,PA,19428
+Erie,PA,16507
+Newtown,PA,18940
+Philadelphia,PA,19103
+Pittsburgh,PA,15219
+Pittsburgh,PA,15232
+Sewickley,PA,15143
+Mayaguez,PR,680
+San Juan,PR,918
+Newport,RI,2840
+Providence,RI,2903
+Charleston,SC,29492
+Charleston,SC,29401
+Greenville,SC,29601
+Spartanburg,SC,29302
+Rapid City,SD,57701
+Sioux Falls,SD,57106
+Chattanooga,TN,37402
+Cookeville,TN,38501
+Franklin,TN,37068
+Franklin,TN,37067
+Johnson City,TN,37601
+Kingsport,TN,37660
+Knoxville,TN,37929
+Memphis,TN,38119
+Nashville,TN,37203
+Nashville,TN,37238
+Oak Ridge,TN,37830
+Addison,TX,75001
+Austin,TX,78701
+Beaumont,TX,77706
+Bryan,TX,77802
+Corpus Christi,TX,78401
+Dallas,TX,75201
+Fort Worth,TX,76102
+Houston,TX,77027
+Houston,TX,77056
+Houston,TX,77002
+Houston,TX,77058
+Hurst,TX,76053
+Lubbock,TX,79407
+McAllen,TX,78503
+Midland,TX,79701
+Plano,TX,75024
+San Angelo,TX,76902
+San Antonio,TX,78216
+Sugarland,TX,77479
+The Woodlands,TX,77380
+Tyler,TX,75703
+Waco,TX,76712
+Park City,UT,84060
+Salt Lake City,UT,84111
+South Ogden,UT,84403
+Norfolk,VA,23510
+Richmond,VA,23219
+Roanoke,VA,24011
+Vienna,VA,22182
+Virginia Beach,VA,23462
+Rutland,VT,5701
+So. Burlington,VT,5403
+South Burlington,VT,5403
+Aberdeen,WA,98520
+Bellevue,WA,98004
+Bellingham,WA,98225
+Everett,WA,98201
+Kennewick,WA,99336
+Poulsbo,WA,98370
+Seattle,WA,98104
+Seattle,WA,98101
+Spokane,WA,99201
+Tacoma,WA,98402
+Walla Walla,WA,99362
+Brookfield,WI,53045
+Eau Claire,WI,54701
+Madison,WI,53717
+Mequon,WI,53092
+Milwaukee,WI,53202
+Casper,WY,82601
